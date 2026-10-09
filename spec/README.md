@@ -24,6 +24,12 @@
 | [MEMBER_VERIFICATION_VERIFY_001](member/MEMBER_VERIFICATION_VERIFY_001.md) | 이메일 인증 코드 검증 | `POST /api/v1/auth/email-verification/verify` |
 | [MEMBER_SIGNUP_001](member/MEMBER_SIGNUP_001.md) | 일반 회원가입 | `POST /api/v1/auth/sign-up` |
 
+### Info
+
+| 기능 ID | 기능명 | API |
+| --- | --- | --- |
+| [INFO_DETAIL_001](info/INFO_DETAIL_001.md) | 정보 상세 조회 | `GET /api/v1/infos/{infoId}` |
+
 ## 공통 사항
 
 ### 성공 응답
