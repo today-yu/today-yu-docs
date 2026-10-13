@@ -28,6 +28,7 @@
 
 | 기능 ID | 기능명 | API |
 | --- | --- | --- |
+| [INFO_LIST_001](info/INFO_LIST_001.md) | 정보 목록 조회 | `GET /api/v1/infos` |
 | [INFO_DETAIL_001](info/INFO_DETAIL_001.md) | 정보 상세 조회 | `GET /api/v1/infos/{infoId}` |
 
 ## 공통 사항
