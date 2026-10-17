@@ -30,6 +30,8 @@
 | --- | --- | --- |
 | [INFO_LIST_001](info/INFO_LIST_001.md) | 정보 목록 조회 | `GET /api/v1/infos` |
 | [INFO_DETAIL_001](info/INFO_DETAIL_001.md) | 정보 상세 조회 | `GET /api/v1/infos/{infoId}` |
+| [INFO_UPDATE_REQUEST_LIST_001](info/INFO_UPDATE_REQUEST_LIST_001.md) | 정보 수정 요청 목록 조회 | `GET /api/v1/infos/update-requests` |
+| [INFO_UPDATE_REQUEST_DETAIL_001](info/INFO_UPDATE_REQUEST_DETAIL_001.md) | 정보 수정 요청 상세 조회 | `GET /api/v1/infos/update-requests/{requestId}` |
 
 ## 공통 사항
 
