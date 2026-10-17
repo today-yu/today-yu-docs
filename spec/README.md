@@ -33,6 +33,12 @@
 | [INFO_UPDATE_REQUEST_LIST_001](info/INFO_UPDATE_REQUEST_LIST_001.md) | 정보 수정 요청 목록 조회 | `GET /api/v1/infos/update-requests` |
 | [INFO_UPDATE_REQUEST_DETAIL_001](info/INFO_UPDATE_REQUEST_DETAIL_001.md) | 정보 수정 요청 상세 조회 | `GET /api/v1/infos/update-requests/{requestId}` |
 
+### Scrap
+
+| 기능 ID | 기능명 | API |
+| --- | --- | --- |
+| [SCRAP_REGISTER_001](scrap/SCRAP_REGISTER_001.md) | 스크랩 등록 | `PUT /api/v1/infos/{infoId}/scrap` |
+
 ## 공통 사항
 
 ### 성공 응답
