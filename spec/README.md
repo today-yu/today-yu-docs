@@ -32,12 +32,24 @@
 | [INFO_DETAIL_001](info/INFO_DETAIL_001.md) | 정보 상세 조회 | `GET /api/v1/infos/{infoId}` |
 | [INFO_UPDATE_REQUEST_LIST_001](info/INFO_UPDATE_REQUEST_LIST_001.md) | 정보 수정 요청 목록 조회 | `GET /api/v1/infos/update-requests` |
 | [INFO_UPDATE_REQUEST_DETAIL_001](info/INFO_UPDATE_REQUEST_DETAIL_001.md) | 정보 수정 요청 상세 조회 | `GET /api/v1/infos/update-requests/{requestId}` |
+| [INFO_UPDATE_REQUEST_SUBMIT_001](info/INFO_UPDATE_REQUEST_SUBMIT_001.md) | 정보 수정 요청 제출 | `POST /api/v1/infos/{infoId}/update-requests` |
+| [INFO_REGISTRATION_REQUEST_LIST_001](info/INFO_REGISTRATION_REQUEST_LIST_001.md) | 정보 등록 요청 목록 조회 | `GET /api/v1/infos/registration-requests` |
+| [INFO_REGISTRATION_REQUEST_DETAIL_001](info/INFO_REGISTRATION_REQUEST_DETAIL_001.md) | 정보 등록 요청 상세 조회 | `GET /api/v1/infos/registration-requests/{requestId}` |
+| [INFO_REGISTRATION_REQUEST_SUBMIT_001](info/INFO_REGISTRATION_REQUEST_SUBMIT_001.md) | 정보 등록 요청 제출 | `POST /api/v1/infos/registration-requests` |
 
 ### Scrap
 
 | 기능 ID | 기능명 | API |
 | --- | --- | --- |
 | [SCRAP_REGISTER_001](scrap/SCRAP_REGISTER_001.md) | 스크랩 등록 | `PUT /api/v1/infos/{infoId}/scrap` |
+| [SCRAP_CANCEL_001](scrap/SCRAP_CANCEL_001.md) | 스크랩 해제 | `DELETE /api/v1/infos/{infoId}/scrap` |
+
+### Notice
+
+| 기능 ID | 기능명 | API |
+| --- | --- | --- |
+| [NOTICE_LIST_001](notice/NOTICE_LIST_001.md) | 공지 목록 조회 | `GET /api/v1/notices` |
+| [NOTICE_DETAIL_001](notice/NOTICE_DETAIL_001.md) | 공지 상세 조회 | `GET /api/v1/notices/{noticeId}` |
 
 ## 공통 사항
 
