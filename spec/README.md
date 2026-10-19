@@ -36,6 +36,8 @@
 | [INFO_REGISTRATION_REQUEST_LIST_001](info/INFO_REGISTRATION_REQUEST_LIST_001.md) | 정보 등록 요청 목록 조회 | `GET /api/v1/infos/registration-requests` |
 | [INFO_REGISTRATION_REQUEST_DETAIL_001](info/INFO_REGISTRATION_REQUEST_DETAIL_001.md) | 정보 등록 요청 상세 조회 | `GET /api/v1/infos/registration-requests/{requestId}` |
 | [INFO_REGISTRATION_REQUEST_SUBMIT_001](info/INFO_REGISTRATION_REQUEST_SUBMIT_001.md) | 정보 등록 요청 제출 | `POST /api/v1/infos/registration-requests` |
+| [INFO_HELPFUL_MARK_REGISTER_001](info/INFO_HELPFUL_MARK_REGISTER_001.md) | '도움이 되는 정보에요' 표시 | `PUT /api/v1/infos/{infoId}/helpful-mark` |
+| [INFO_HELPFUL_MARK_CANCEL_001](info/INFO_HELPFUL_MARK_CANCEL_001.md) | '도움이 되는 정보에요' 해제 | `DELETE /api/v1/infos/{infoId}/helpful-mark` |
 
 ### Scrap
 
