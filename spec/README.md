@@ -41,6 +41,7 @@
 
 | 기능 ID | 기능명 | API |
 | --- | --- | --- |
+| [SCRAP_LIST_001](scrap/SCRAP_LIST_001.md) | 스크랩 목록 조회 | `GET /api/v1/infos/scraps` |
 | [SCRAP_REGISTER_001](scrap/SCRAP_REGISTER_001.md) | 스크랩 등록 | `PUT /api/v1/infos/{infoId}/scrap` |
 | [SCRAP_CANCEL_001](scrap/SCRAP_CANCEL_001.md) | 스크랩 해제 | `DELETE /api/v1/infos/{infoId}/scrap` |
 
