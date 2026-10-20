@@ -23,6 +23,7 @@
 | [MEMBER_VERIFICATION_ISSUE_001](member/MEMBER_VERIFICATION_ISSUE_001.md) | 이메일 인증 코드 발급 | `POST /api/v1/auth/email-verification/issue` |
 | [MEMBER_VERIFICATION_VERIFY_001](member/MEMBER_VERIFICATION_VERIFY_001.md) | 이메일 인증 코드 검증 | `POST /api/v1/auth/email-verification/verify` |
 | [MEMBER_SIGNUP_001](member/MEMBER_SIGNUP_001.md) | 일반 회원가입 | `POST /api/v1/auth/sign-up` |
+| [MEMBER_ME_001](member/MEMBER_ME_001.md) | 내 정보 조회 | `GET /api/v1/members/me` |
 
 ### Info
 
