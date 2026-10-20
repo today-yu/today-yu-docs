@@ -58,6 +58,7 @@
 
 | 기능 ID | 기능명 | API |
 | --- | --- | --- |
+| [INQUIRY_LIST_001](inquiry/INQUIRY_LIST_001.md) | 문의 목록 조회 | `GET /api/v1/inquiries` |
 | [INQUIRY_DETAIL_001](inquiry/INQUIRY_DETAIL_001.md) | 문의 상세 조회 | `GET /api/v1/inquiries/{inquiryId}` |
 | [INQUIRY_SUBMIT_001](inquiry/INQUIRY_SUBMIT_001.md) | 문의 작성 | `POST /api/v1/inquiries` |
 
