@@ -61,4 +61,5 @@ api: GET /api/v1/inquiries/{inquiryId}
 ## [7] 관련 문서
 
 - [INQUIRY_SUBMIT_001](INQUIRY_SUBMIT_001.md) — 문의 작성
+- [INQUIRY_UPDATE_001](INQUIRY_UPDATE_001.md) — 문의 수정
 - [`design/ubiquitous-language.md`](../../design/ubiquitous-language.md) — 문의, 답변, 문의 상태

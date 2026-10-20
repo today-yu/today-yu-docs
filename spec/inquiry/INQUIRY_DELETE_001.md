@@ -53,4 +53,5 @@ api: DELETE /api/v1/inquiries/{inquiryId}
 
 - [INQUIRY_DETAIL_001](INQUIRY_DETAIL_001.md) — 문의 상세 조회
 - [INQUIRY_LIST_001](INQUIRY_LIST_001.md) — 문의 목록 조회
+- [INQUIRY_UPDATE_001](INQUIRY_UPDATE_001.md) — 문의 수정
 - [`design/ubiquitous-language.md`](../../design/ubiquitous-language.md) — 문의, 문의 상태
