@@ -54,6 +54,12 @@
 | [NOTICE_LIST_001](notice/NOTICE_LIST_001.md) | 공지 목록 조회 | `GET /api/v1/notices` |
 | [NOTICE_DETAIL_001](notice/NOTICE_DETAIL_001.md) | 공지 상세 조회 | `GET /api/v1/notices/{noticeId}` |
 
+### Inquiry
+
+| 기능 ID | 기능명 | API |
+| --- | --- | --- |
+| [INQUIRY_SUBMIT_001](inquiry/INQUIRY_SUBMIT_001.md) | 문의 작성 | `POST /api/v1/inquiries` |
+
 ## 공통 사항
 
 ### 성공 응답
