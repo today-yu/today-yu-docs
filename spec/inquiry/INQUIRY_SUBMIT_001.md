@@ -53,4 +53,5 @@ api: POST /api/v1/inquiries
 
 ## [7] 관련 문서
 
+- [INQUIRY_DETAIL_001](INQUIRY_DETAIL_001.md) — 문의 상세 조회
 - [`design/ubiquitous-language.md`](../../design/ubiquitous-language.md) — 문의, 답변, 문의 상태
