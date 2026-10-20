@@ -61,6 +61,7 @@
 | [INQUIRY_LIST_001](inquiry/INQUIRY_LIST_001.md) | 문의 목록 조회 | `GET /api/v1/inquiries` |
 | [INQUIRY_DETAIL_001](inquiry/INQUIRY_DETAIL_001.md) | 문의 상세 조회 | `GET /api/v1/inquiries/{inquiryId}` |
 | [INQUIRY_SUBMIT_001](inquiry/INQUIRY_SUBMIT_001.md) | 문의 작성 | `POST /api/v1/inquiries` |
+| [INQUIRY_DELETE_001](inquiry/INQUIRY_DELETE_001.md) | 문의 삭제 | `DELETE /api/v1/inquiries/{inquiryId}` |
 
 ## 공통 사항
 
